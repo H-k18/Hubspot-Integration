@@ -1,4 +1,5 @@
 import { IntegrationForm } from './integration-form';
+import HubspotIntegration from './integrations/hubspot';
 
 function App() {
   return (
